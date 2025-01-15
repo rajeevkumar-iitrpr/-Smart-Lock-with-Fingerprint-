@@ -67,11 +67,7 @@ Upon successful authentication, the servo motor will move to unlock and lock pos
 
 ## Author
 
-Rahul Yadav
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Rajeev Kumar
 
 ## Acknowledgments
 
